@@ -3,3 +3,6 @@ https://yallashoot-today.github.io/koralive-autos/today.html
 https://yallashoot-today.github.io/koralive-autos/tomorrow.html
 https://yallashoot-today.github.io/koralive-autos/yesterday.html
 https://yallashoot-today.github.io/koralive-autos/leagues.html
+https://yallashoot-today.github.io/koralive-autos/article-live-guide.html
+https://yallashoot-today.github.io/koralive-autos/article-tournaments-coverage.html
+https://yallashoot-today.github.io/koralive-autos/article-bein-sports-channels.html
